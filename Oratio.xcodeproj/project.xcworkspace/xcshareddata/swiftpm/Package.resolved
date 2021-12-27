@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "StatusAlert",
+        "repositoryURL": "https://github.com/LowKostKustomz/StatusAlert",
+        "state": {
+          "branch": "master",
+          "revision": "9997022d9fe4ba30e01175b52fde7a1e2b1cd5d7",
+          "version": null
+        }
+      },
+      {
+        "package": "Introspect",
+        "repositoryURL": "https://github.com/siteline/SwiftUI-Introspect",
+        "state": {
+          "branch": "master",
+          "revision": "72a509c93166540c0adf8323fd2652daade7f9f6",
+          "version": null
+        }
+      },
+      {
+        "package": "UIColorHexSwift",
+        "repositoryURL": "https://github.com/yeahdongcn/UIColor-Hex-Swift",
+        "state": {
+          "branch": "master",
+          "revision": "38b4d870634c8235c75680b2f90fcd7e70fcf37a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

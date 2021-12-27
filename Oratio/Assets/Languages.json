@@ -1,0 +1,2412 @@
+[
+    {
+        "id": "English",
+        "words": {
+            "abacus": {
+                "color": "#9f4c21",
+                "emoji": "🧮",
+                "font": null
+            },
+            "accordion": {
+                "color": "#a45c65",
+                "emoji": "🪗",
+                "font": null
+            },
+            "adult": {
+                "color": "#e7b751",
+                "emoji": "🧑",
+                "font": null
+            },
+            "airplane": {
+                "color": "#8cacc4",
+                "emoji": "✈️",
+                "font": null
+            },
+            "alien": {
+                "color": "#8f9e9f",
+                "emoji": "👽",
+                "font": null
+            },
+            "ambulance": {
+                "color": "#b8adb4",
+                "emoji": "🚑",
+                "font": null
+            },
+            "angel": {
+                "color": "#e4b95c",
+                "emoji": "👼",
+                "font": null
+            },
+            "anger": {
+                "color": "#d71717",
+                "emoji": "💢",
+                "font": null
+            },
+            "ant": {
+                "color": "#594a47",
+                "emoji": "🐜",
+                "font": null
+            },
+            "apple": {
+                "color": "#cd4e42",
+                "emoji": "🍎",
+                "font": null
+            },
+            "art": {
+                "color": "#c3985b",
+                "emoji": "🎨",
+                "font": null
+            },
+            "artist": {
+                "color": "#a88f5f",
+                "emoji": "🧑‍🎨",
+                "font": null
+            },
+            "avocado": {
+                "color": "#bdb767",
+                "emoji": "🥑",
+                "font": null
+            },
+            "baby": {
+                "color": "#e9b431",
+                "emoji": "👶",
+                "font": null
+            },
+            "back": {
+                "color": "#4b4b4b",
+                "emoji": "🔙",
+                "font": null
+            },
+            "bacon": {
+                "color": "#ca7652",
+                "emoji": "🥓",
+                "font": null
+            },
+            "badger": {
+                "color": "#757168",
+                "emoji": "🦡",
+                "font": null
+            },
+            "bagel": {
+                "color": "#ddac7c",
+                "emoji": "🥯",
+                "font": null
+            },
+            "balloon": {
+                "color": "#e34a52",
+                "emoji": "🎈",
+                "font": null
+            },
+            "bamboo": {
+                "color": "#ae9e55",
+                "emoji": "🎍",
+                "font": null
+            },
+            "banana": {
+                "color": "#e9cb88",
+                "emoji": "🍌",
+                "font": null
+            },
+            "banjo": {
+                "color": "#a9a082",
+                "emoji": "🪕",
+                "font": null
+            },
+            "bank": {
+                "color": "#adac95",
+                "emoji": "🏦",
+                "font": null
+            },
+            "barber": {
+                "color": "#b598be",
+                "emoji": "💈",
+                "font": null
+            },
+            "baseball": {
+                "color": "#c9bfba",
+                "emoji": "⚾",
+                "font": null
+            },
+            "basket": {
+                "color": "#89776a",
+                "emoji": "🧺",
+                "font": null
+            },
+            "basketball": {
+                "color": "#cf7039",
+                "emoji": "🏀",
+                "font": null
+            },
+            "bat": {
+                "color": "#654e3f",
+                "emoji": "🦇",
+                "font": null
+            },
+            "bath": {
+                "color": "#c4c7be",
+                "emoji": "🛀",
+                "font": null
+            },
+            "bathtub": {
+                "color": "#c6cbce",
+                "emoji": "🛁",
+                "font": null
+            },
+            "battery": {
+                "color": "#70a15b",
+                "emoji": "🔋",
+                "font": null
+            },
+            "bear": {
+                "color": "#865f3b",
+                "emoji": "🐻",
+                "font": null
+            },
+            "beaver": {
+                "color": "#83644a",
+                "emoji": "🦫",
+                "font": null
+            },
+            "bed": {
+                "color": "#94888e",
+                "emoji": "🛏️",
+                "font": null
+            },
+            "bee": {
+                "color": "#9d8e4d",
+                "emoji": "🐝",
+                "font": null
+            },
+            "beer": {
+                "color": "#c7a280",
+                "emoji": "🍺",
+                "font": null
+            },
+            "beetle": {
+                "color": "#829301",
+                "emoji": "🪲",
+                "font": null
+            },
+            "beginner": {
+                "color": "#8da541",
+                "emoji": "🔰",
+                "font": null
+            },
+            "bell": {
+                "color": "#b09235",
+                "emoji": "🔔",
+                "font": null
+            },
+            "bike": {
+                "color": "#455472",
+                "emoji": "🚲",
+                "font": null
+            },
+            "bikini": {
+                "color": "#d87a8d",
+                "emoji": "👙",
+                "font": null
+            },
+            "bird": {
+                "color": "#93a7a9",
+                "emoji": "🐦",
+                "font": null
+            },
+            "birthday": {
+                "color": "#d7d0c7",
+                "emoji": "🎂",
+                "font": null
+            },
+            "black": {
+                "color": "#000000",
+                "emoji": null,
+                "font": null
+            },
+            "blossom": {
+                "color": "#e5c642",
+                "emoji": "🌼",
+                "font": null
+            },
+            "blue": {
+                "color": "#0000ff",
+                "emoji": null,
+                "font": null
+            },
+            "blush": {
+                "color": "#f0bb4d",
+                "emoji": "😊",
+                "font": null
+            },
+            "boar": {
+                "color": "#6f5b4e",
+                "emoji": "🐗",
+                "font": null
+            },
+            "boat": {
+                "color": "#c47b3b",
+                "emoji": "⛵",
+                "font": null
+            },
+            "bomb": {
+                "color": "#605f59",
+                "emoji": "💣",
+                "font": null
+            },
+            "bone": {
+                "color": "#c2c4c4",
+                "emoji": "🦴",
+                "font": null
+            },
+            "book": {
+                "color": "#bdc1ca",
+                "emoji": "📖",
+                "font": null
+            },
+            "bookmark": {
+                "color": "#e1cfc7",
+                "emoji": "🔖",
+                "font": null
+            },
+            "boom": {
+                "color": "#f28f60",
+                "emoji": "💥",
+                "font": null
+            },
+            "boot": {
+                "color": "#bf9a6c",
+                "emoji": "👢",
+                "font": null
+            },
+            "bouquet": {
+                "color": "#b18f52",
+                "emoji": "💐",
+                "font": null
+            },
+            "bow": {
+                "color": "#b7975e",
+                "emoji": "🙇‍♂️",
+                "font": null
+            },
+            "bowling": {
+                "color": "#a29b98",
+                "emoji": "🎳",
+                "font": null
+            },
+            "boy": {
+                "color": "#eabb4c",
+                "emoji": "👦",
+                "font": null
+            },
+            "brain": {
+                "color": "#dc8da4",
+                "emoji": "🧠",
+                "font": null
+            },
+            "bread": {
+                "color": "#d3b07c",
+                "emoji": "🍞",
+                "font": null
+            },
+            "briefs": {
+                "color": "#288723",
+                "emoji": "🩲",
+                "font": null
+            },
+            "broccoli": {
+                "color": "#578137",
+                "emoji": "🥦",
+                "font": null
+            },
+            "broom": {
+                "color": "#a78f54",
+                "emoji": "🧹",
+                "font": null
+            },
+            "brown": {
+                "color": "#a52a2a",
+                "emoji": null,
+                "font": null
+            },
+            "bucket": {
+                "color": "#4b8192",
+                "emoji": "🪣",
+                "font": null
+            },
+            "bug": {
+                "color": "#959548",
+                "emoji": "🐛",
+                "font": null
+            },
+            "bulb": {
+                "color": "#f0e5c4",
+                "emoji": "💡",
+                "font": null
+            },
+            "burrito": {
+                "color": "#b6aca1",
+                "emoji": "🌯",
+                "font": null
+            },
+            "bus": {
+                "color": "#afa98d",
+                "emoji": "🚌",
+                "font": null
+            },
+            "butter": {
+                "color": "#e6cc95",
+                "emoji": "🧈",
+                "font": null
+            },
+            "butterfly": {
+                "color": "#319cd0",
+                "emoji": "🦋",
+                "font": null
+            },
+            "cactus": {
+                "color": "#5f9936",
+                "emoji": "🌵",
+                "font": null
+            },
+            "cake": {
+                "color": "#e3c591",
+                "emoji": "🍰",
+                "font": null
+            },
+            "calendar": {
+                "color": "#beabab",
+                "emoji": "📆",
+                "font": null
+            },
+            "camel": {
+                "color": "#b17e58",
+                "emoji": "🐫",
+                "font": null
+            },
+            "camera": {
+                "color": "#797a79",
+                "emoji": "📷",
+                "font": null
+            },
+            "cancer": {
+                "color": "#b27ac4",
+                "emoji": "♋",
+                "font": null
+            },
+            "candle": {
+                "color": "#d0bfb0",
+                "emoji": "🕯️",
+                "font": null
+            },
+            "candy": {
+                "color": "#c5bed9",
+                "emoji": "🍬",
+                "font": null
+            },
+            "canoe": {
+                "color": "#727730",
+                "emoji": "🛶",
+                "font": null
+            },
+            "car": {
+                "color": "#bf6769",
+                "emoji": "🚗",
+                "font": null
+            },
+            "carrot": {
+                "color": "#bb7a29",
+                "emoji": "🥕",
+                "font": null
+            },
+            "cat": {
+                "color": "#e0b847",
+                "emoji": "🐱",
+                "font": null
+            },
+            "chair": {
+                "color": "#996042",
+                "emoji": "🪑",
+                "font": null
+            },
+            "champagne": {
+                "color": "#958e69",
+                "emoji": "🍾",
+                "font": null
+            },
+            "chart": {
+                "color": "#67c569",
+                "emoji": "💹",
+                "font": null
+            },
+            "chestnut": {
+                "color": "#8d4a2e",
+                "emoji": "🌰",
+                "font": null
+            },
+            "chicken": {
+                "color": "#dbb3a0",
+                "emoji": "🐔",
+                "font": null
+            },
+            "child": {
+                "color": "#e5b64d",
+                "emoji": "🧒",
+                "font": null
+            },
+            "chipmunk": {
+                "color": "#92673f",
+                "emoji": "🐿️",
+                "font": null
+            },
+            "chocolate": {
+                "color": "#d2691e",
+                "emoji": null,
+                "font": null
+            },
+            "chopsticks": {
+                "color": "#a75655",
+                "emoji": "🥢",
+                "font": null
+            },
+            "church": {
+                "color": "#bbb6b8",
+                "emoji": "⛪",
+                "font": null
+            },
+            "cinema": {
+                "color": "#abbac9",
+                "emoji": "🎦",
+                "font": null
+            },
+            "clipboard": {
+                "color": "#c7c0ba",
+                "emoji": "📋",
+                "font": null
+            },
+            "cloud": {
+                "color": "#e5e9ed",
+                "emoji": "☁️",
+                "font": null
+            },
+            "coat": {
+                "color": "#c89e51",
+                "emoji": "🧥",
+                "font": null
+            },
+            "cockroach": {
+                "color": "#905645",
+                "emoji": "🪳",
+                "font": null
+            },
+            "cocktail": {
+                "color": "#c2c0b6",
+                "emoji": "🍸",
+                "font": null
+            },
+            "coconut": {
+                "color": "#b4a998",
+                "emoji": "🥥",
+                "font": null
+            },
+            "coffee": {
+                "color": "#a8a49c",
+                "emoji": "☕",
+                "font": null
+            },
+            "coffin": {
+                "color": "#915e3d",
+                "emoji": "⚰️",
+                "font": null
+            },
+            "coin": {
+                "color": "#989c9e",
+                "emoji": "🪙",
+                "font": null
+            },
+            "collision": {
+                "color": "#f28f60",
+                "emoji": "💥",
+                "font": null
+            },
+            "compass": {
+                "color": "#c6c4c6",
+                "emoji": "🧭",
+                "font": null
+            },
+            "computer": {
+                "color": "#6c6c6c",
+                "emoji": "💻",
+                "font": null
+            },
+            "construction": {
+                "color": "#b19745",
+                "emoji": "🚧",
+                "font": null
+            },
+            "cook": {
+                "color": "#d3bc9b",
+                "emoji": "🧑‍🍳",
+                "font": null
+            },
+            "cookie": {
+                "color": "#bb8a50",
+                "emoji": "🍪",
+                "font": null
+            },
+            "cooking": {
+                "color": "#89806f",
+                "emoji": "🍳",
+                "font": null
+            },
+            "cop": {
+                "color": "#9d8869",
+                "emoji": "👮‍♂️",
+                "font": null
+            },
+            "copyright": {
+                "color": "#4d4d4d",
+                "emoji": "©️",
+                "font": null
+            },
+            "coral": {
+                "color": "#ff7f50",
+                "emoji": null,
+                "font": null
+            },
+            "corn": {
+                "color": "#a0982b",
+                "emoji": "🌽",
+                "font": null
+            },
+            "couple": {
+                "color": "#ba905b",
+                "emoji": "👫",
+                "font": null
+            },
+            "cow": {
+                "color": "#cbbeb1",
+                "emoji": "🐮",
+                "font": null
+            },
+            "crab": {
+                "color": "#ce522b",
+                "emoji": "🦀",
+                "font": null
+            },
+            "cricket": {
+                "color": "#7b6040",
+                "emoji": "🦗",
+                "font": null
+            },
+            "crocodile": {
+                "color": "#5b805a",
+                "emoji": "🐊",
+                "font": null
+            },
+            "croissant": {
+                "color": "#d18c26",
+                "emoji": "🥐",
+                "font": null
+            },
+            "crown": {
+                "color": "#bf9e3f",
+                "emoji": "👑",
+                "font": null
+            },
+            "cry": {
+                "color": "#e9c266",
+                "emoji": "😢",
+                "font": null
+            },
+            "cucumber": {
+                "color": "#8fb959",
+                "emoji": "🥒",
+                "font": null
+            },
+            "cupcake": {
+                "color": "#cfb991",
+                "emoji": "🧁",
+                "font": null
+            },
+            "curry": {
+                "color": "#c9b2a0",
+                "emoji": "🍛",
+                "font": null
+            },
+            "custard": {
+                "color": "#d6b89a",
+                "emoji": "🍮",
+                "font": null
+            },
+            "cyclone": {
+                "color": "#0063e1",
+                "emoji": "🌀",
+                "font": null
+            },
+            "dancer": {
+                "color": "#a7611e",
+                "emoji": "💃",
+                "font": null
+            },
+            "dart": {
+                "color": "#b99090",
+                "emoji": "🎯",
+                "font": null
+            },
+            "dash": {
+                "color": "#b7cadd",
+                "emoji": "💨",
+                "font": null
+            },
+            "date": {
+                "color": "#c2afaf",
+                "emoji": "📅",
+                "font": null
+            },
+            "deer": {
+                "color": "#9c7454",
+                "emoji": "🦌",
+                "font": null
+            },
+            "desert": {
+                "color": "#ca8e3c",
+                "emoji": "🏜️",
+                "font": null
+            },
+            "dog": {
+                "color": "#c7b4a9",
+                "emoji": "🐶",
+                "font": null
+            },
+            "dollar": {
+                "color": "#c4bb99",
+                "emoji": "💵",
+                "font": null
+            },
+            "dolphin": {
+                "color": "#67b9cf",
+                "emoji": "🐬",
+                "font": null
+            },
+            "door": {
+                "color": "#955b3a",
+                "emoji": "🚪",
+                "font": null
+            },
+            "doughnut": {
+                "color": "#9a745e",
+                "emoji": "🍩",
+                "font": null
+            },
+            "dragon": {
+                "color": "#8ea654",
+                "emoji": "🐉",
+                "font": null
+            },
+            "dress": {
+                "color": "#36c5b4",
+                "emoji": "👗",
+                "font": null
+            },
+            "duck": {
+                "color": "#9e8e86",
+                "emoji": "🦆",
+                "font": null
+            },
+            "e-mail": {
+                "color": "#ccd1d9",
+                "emoji": "📧",
+                "font": null
+            },
+            "eagle": {
+                "color": "#60554c",
+                "emoji": "🦅",
+                "font": null
+            },
+            "ear": {
+                "color": "#f4bf3f",
+                "emoji": "👂",
+                "font": null
+            },
+            "egg": {
+                "color": "#ddd8d1",
+                "emoji": "🥚",
+                "font": null
+            },
+            "eggplant": {
+                "color": "#84657a",
+                "emoji": "🍆",
+                "font": null
+            },
+            "elephant": {
+                "color": "#818480",
+                "emoji": "🐘",
+                "font": null
+            },
+            "elevator": {
+                "color": "#85a4e1",
+                "emoji": "🛗",
+                "font": null
+            },
+            "elf": {
+                "color": "#cab773",
+                "emoji": "🧝‍♂️",
+                "font": null
+            },
+            "email": {
+                "color": "#dbdbdb",
+                "emoji": "✉️",
+                "font": null
+            },
+            "end": {
+                "color": "#4a4a4a",
+                "emoji": "🔚",
+                "font": null
+            },
+            "envelope": {
+                "color": "#dbdbdb",
+                "emoji": "✉️",
+                "font": null
+            },
+            "exclamation": {
+                "color": "#dc0e0e",
+                "emoji": "❗",
+                "font": null
+            },
+            "eye": {
+                "color": "#9c8e88",
+                "emoji": "👁️",
+                "font": null
+            },
+            "eyeglasses": {
+                "color": "#879791",
+                "emoji": "👓",
+                "font": null
+            },
+            "factory": {
+                "color": "#b18c75",
+                "emoji": "🏭",
+                "font": null
+            },
+            "fairy": {
+                "color": "#b0c7a8",
+                "emoji": "🧚‍♀️",
+                "font": null
+            },
+            "family": {
+                "color": "#bf8856",
+                "emoji": "👨‍👩‍👦",
+                "font": null
+            },
+            "farmer": {
+                "color": "#ac8947",
+                "emoji": "🧑‍🌾",
+                "font": null
+            },
+            "fax": {
+                "color": "#b0aba2",
+                "emoji": "📠",
+                "font": null
+            },
+            "feather": {
+                "color": "#877b6a",
+                "emoji": "🪶",
+                "font": null
+            },
+            "ferry": {
+                "color": "#8d94ad",
+                "emoji": "⛴️",
+                "font": null
+            },
+            "fire": {
+                "color": "#fb9e51",
+                "emoji": "🔥",
+                "font": null
+            },
+            "fish": {
+                "color": "#83a5c1",
+                "emoji": "🐟",
+                "font": null
+            },
+            "fly": {
+                "color": "#9e7147",
+                "emoji": "🪰",
+                "font": null
+            },
+            "fog": {
+                "color": "#d7d8dd",
+                "emoji": "🌫️",
+                "font": null
+            },
+            "fondue": {
+                "color": "#ac745e",
+                "emoji": "🫕",
+                "font": null
+            },
+            "foot": {
+                "color": "#e6ab2f",
+                "emoji": "🦶",
+                "font": null
+            },
+            "football": {
+                "color": "#be8871",
+                "emoji": "🏈",
+                "font": null
+            },
+            "fountain": {
+                "color": "#90a5a8",
+                "emoji": "⛲",
+                "font": null
+            },
+            "fries": {
+                "color": "#db8740",
+                "emoji": "🍟",
+                "font": null
+            },
+            "frog": {
+                "color": "#83af56",
+                "emoji": "🐸",
+                "font": null
+            },
+            "garlic": {
+                "color": "#bda090",
+                "emoji": "🧄",
+                "font": null
+            },
+            "gear": {
+                "color": "#989ea6",
+                "emoji": "⚙️",
+                "font": null
+            },
+            "gem": {
+                "color": "#77c3f6",
+                "emoji": "💎",
+                "font": null
+            },
+            "genie": {
+                "color": "#518fa9",
+                "emoji": "🧞‍♂️",
+                "font": null
+            },
+            "ghost": {
+                "color": "#bcb5b9",
+                "emoji": "👻",
+                "font": null
+            },
+            "gift": {
+                "color": "#c86e25",
+                "emoji": "🎁",
+                "font": null
+            },
+            "girl": {
+                "color": "#ebbb49",
+                "emoji": "👧",
+                "font": null
+            },
+            "goat": {
+                "color": "#98836a",
+                "emoji": "🐐",
+                "font": null
+            },
+            "goggles": {
+                "color": "#b0b4b4",
+                "emoji": "🥽",
+                "font": null
+            },
+            "gold": {
+                "color": "#ffd700",
+                "emoji": null,
+                "font": null
+            },
+            "golf": {
+                "color": "#99a135",
+                "emoji": "⛳",
+                "font": null
+            },
+            "gorilla": {
+                "color": "#696767",
+                "emoji": "🦍",
+                "font": null
+            },
+            "gray": {
+                "color": "#808080",
+                "emoji": null,
+                "font": null
+            },
+            "green": {
+                "color": "#008000",
+                "emoji": null,
+                "font": null
+            },
+            "grey": {
+                "color": "#808080",
+                "emoji": null,
+                "font": null
+            },
+            "grin": {
+                "color": "#e7c069",
+                "emoji": "😁",
+                "font": null
+            },
+            "guitar": {
+                "color": "#d9817d",
+                "emoji": "🎸",
+                "font": null
+            },
+            "gun": {
+                "color": "#7cdd63",
+                "emoji": "🔫",
+                "font": null
+            },
+            "haircut": {
+                "color": "#d0a159",
+                "emoji": "💇‍♀️",
+                "font": null
+            },
+            "hamburger": {
+                "color": "#d0944a",
+                "emoji": "🍔",
+                "font": null
+            },
+            "hammer": {
+                "color": "#747981",
+                "emoji": "🔨",
+                "font": null
+            },
+            "hamster": {
+                "color": "#deb3a6",
+                "emoji": "🐹",
+                "font": null
+            },
+            "hand": {
+                "color": "#f4bd3b",
+                "emoji": "✋",
+                "font": null
+            },
+            "handball": {
+                "color": "#c1af96",
+                "emoji": "🤾",
+                "font": null
+            },
+            "hash": {
+                "color": "#92a7bc",
+                "emoji": "#️⃣",
+                "font": null
+            },
+            "headphones": {
+                "color": "#c0c1c1",
+                "emoji": "🎧",
+                "font": null
+            },
+            "heart": {
+                "color": "#f0534b",
+                "emoji": "❤️",
+                "font": null
+            },
+            "heartbeat": {
+                "color": "#e84ca5",
+                "emoji": "💓",
+                "font": null
+            },
+            "hedgehog": {
+                "color": "#8f755f",
+                "emoji": "🦔",
+                "font": null
+            },
+            "helicopter": {
+                "color": "#b07981",
+                "emoji": "🚁",
+                "font": null
+            },
+            "herb": {
+                "color": "#5fa62b",
+                "emoji": "🌿",
+                "font": null
+            },
+            "hippopotamus": {
+                "color": "#807f7d",
+                "emoji": "🦛",
+                "font": null
+            },
+            "hole": {
+                "color": "#616161",
+                "emoji": "🕳️",
+                "font": null
+            },
+            "honeybee": {
+                "color": "#9d8e4d",
+                "emoji": "🐝",
+                "font": null
+            },
+            "honeydew": {
+                "color": "#f0fff0",
+                "emoji": null,
+                "font": null
+            },
+            "hook": {
+                "color": "#a78c51",
+                "emoji": "🪝",
+                "font": null
+            },
+            "horse": {
+                "color": "#95845c",
+                "emoji": "🐴",
+                "font": null
+            },
+            "hospital": {
+                "color": "#a89f9d",
+                "emoji": "🏥",
+                "font": null
+            },
+            "hotdog": {
+                "color": "#d89b54",
+                "emoji": "🌭",
+                "font": null
+            },
+            "hotel": {
+                "color": "#c9aa99",
+                "emoji": "🏨",
+                "font": null
+            },
+            "hourglass": {
+                "color": "#afa29c",
+                "emoji": "⌛",
+                "font": null
+            },
+            "house": {
+                "color": "#baa18a",
+                "emoji": "🏠",
+                "font": null
+            },
+            "hut": {
+                "color": "#77654f",
+                "emoji": "🛖",
+                "font": null
+            },
+            "icecream": {
+                "color": "#dbc69e",
+                "emoji": "🍦",
+                "font": null
+            },
+            "id": {
+                "color": "#bf95ce",
+                "emoji": "🆔",
+                "font": null
+            },
+            "innocent": {
+                "color": "#d6b279",
+                "emoji": "😇",
+                "font": null
+            },
+            "ivory": {
+                "color": "#fffff0",
+                "emoji": null,
+                "font": null
+            },
+            "jeans": {
+                "color": "#5068a3",
+                "emoji": "👖",
+                "font": null
+            },
+            "joy": {
+                "color": "#dbbe77",
+                "emoji": "😂",
+                "font": null
+            },
+            "judge": {
+                "color": "#c9a052",
+                "emoji": "🧑‍⚖️",
+                "font": null
+            },
+            "kangaroo": {
+                "color": "#a67e53",
+                "emoji": "🦘",
+                "font": null
+            },
+            "key": {
+                "color": "#d8ad24",
+                "emoji": "🔑",
+                "font": null
+            },
+            "keyboard": {
+                "color": "#c8c9cb",
+                "emoji": "⌨️",
+                "font": null
+            },
+            "kimono": {
+                "color": "#df992f",
+                "emoji": "👘",
+                "font": null
+            },
+            "kiss": {
+                "color": "#d52829",
+                "emoji": "💋",
+                "font": null
+            },
+            "kite": {
+                "color": "#5e69b0",
+                "emoji": "🪁",
+                "font": null
+            },
+            "knife": {
+                "color": "#a0a2a2",
+                "emoji": "🔪",
+                "font": null
+            },
+            "knot": {
+                "color": "#8b3566",
+                "emoji": "🪢",
+                "font": null
+            },
+            "koala": {
+                "color": "#94837e",
+                "emoji": "🐨",
+                "font": null
+            },
+            "label": {
+                "color": "#f5cd9e",
+                "emoji": "🏷️",
+                "font": null
+            },
+            "ladder": {
+                "color": "#a8835b",
+                "emoji": "🪜",
+                "font": null
+            },
+            "ladybug": {
+                "color": "#975c44",
+                "emoji": "🐞",
+                "font": null
+            },
+            "lantern": {
+                "color": "#bc471d",
+                "emoji": "🏮",
+                "font": null
+            },
+            "leg": {
+                "color": "#e6b23b",
+                "emoji": "🦵",
+                "font": null
+            },
+            "lemon": {
+                "color": "#ccb343",
+                "emoji": "🍋",
+                "font": null
+            },
+            "leopard": {
+                "color": "#b89155",
+                "emoji": "🐆",
+                "font": null
+            },
+            "lightning": {
+                "color": "#ebecea",
+                "emoji": "🌩️",
+                "font": null
+            },
+            "lime": {
+                "color": "#00ff00",
+                "emoji": null,
+                "font": null
+            },
+            "linen": {
+                "color": "#faf0e6",
+                "emoji": null,
+                "font": null
+            },
+            "link": {
+                "color": "#979ea6",
+                "emoji": "🔗",
+                "font": null
+            },
+            "lipstick": {
+                "color": "#b86358",
+                "emoji": "💄",
+                "font": null
+            },
+            "lizard": {
+                "color": "#5e9247",
+                "emoji": "🦎",
+                "font": null
+            },
+            "llama": {
+                "color": "#d9ccab",
+                "emoji": "🦙",
+                "font": null
+            },
+            "lobster": {
+                "color": "#cb491f",
+                "emoji": "🦞",
+                "font": null
+            },
+            "lock": {
+                "color": "#aca97f",
+                "emoji": "🔒",
+                "font": null
+            },
+            "lollipop": {
+                "color": "#b7ab9b",
+                "emoji": "🍭",
+                "font": null
+            },
+            "loop": {
+                "color": "#4d4d4d",
+                "emoji": "➿",
+                "font": null
+            },
+            "luggage": {
+                "color": "#5b4638",
+                "emoji": "🧳",
+                "font": null
+            },
+            "magnet": {
+                "color": "#d25656",
+                "emoji": "🧲",
+                "font": null
+            },
+            "mailbox": {
+                "color": "#6f88a5",
+                "emoji": "📫",
+                "font": null
+            },
+            "mammoth": {
+                "color": "#7e5f46",
+                "emoji": "🦣",
+                "font": null
+            },
+            "man": {
+                "color": "#eab947",
+                "emoji": "👨",
+                "font": null
+            },
+            "mango": {
+                "color": "#a78825",
+                "emoji": "🥭",
+                "font": null
+            },
+            "mask": {
+                "color": "#eac88b",
+                "emoji": "😷",
+                "font": null
+            },
+            "massage": {
+                "color": "#d7a23e",
+                "emoji": "💆‍♀️",
+                "font": null
+            },
+            "mechanic": {
+                "color": "#c5a684",
+                "emoji": "🧑‍🔧",
+                "font": null
+            },
+            "medal": {
+                "color": "#da9851",
+                "emoji": "🎖️",
+                "font": null
+            },
+            "melon": {
+                "color": "#bec084",
+                "emoji": "🍈",
+                "font": null
+            },
+            "memo": {
+                "color": "#dbd3c9",
+                "emoji": "📝",
+                "font": null
+            },
+            "metro": {
+                "color": "#746867",
+                "emoji": "🚇",
+                "font": null
+            },
+            "microphone": {
+                "color": "#767777",
+                "emoji": "🎤",
+                "font": null
+            },
+            "minibus": {
+                "color": "#9fa9a7",
+                "emoji": "🚐",
+                "font": null
+            },
+            "mirror": {
+                "color": "#d1d7da",
+                "emoji": "🪞",
+                "font": null
+            },
+            "monkey": {
+                "color": "#b38f63",
+                "emoji": "🐒",
+                "font": null
+            },
+            "moon": {
+                "color": "#d6bf47",
+                "emoji": "🌔",
+                "font": null
+            },
+            "mosque": {
+                "color": "#d4a57f",
+                "emoji": "🕌",
+                "font": null
+            },
+            "mosquito": {
+                "color": "#7a6b5b",
+                "emoji": "🦟",
+                "font": null
+            },
+            "mountain": {
+                "color": "#928f6e",
+                "emoji": "⛰️",
+                "font": null
+            },
+            "mouse": {
+                "color": "#bfb6be",
+                "emoji": "🐭",
+                "font": null
+            },
+            "muscle": {
+                "color": "#f0b633",
+                "emoji": "💪",
+                "font": null
+            },
+            "mushroom": {
+                "color": "#e19589",
+                "emoji": "🍄",
+                "font": null
+            },
+            "necktie": {
+                "color": "#93abcb",
+                "emoji": "👔",
+                "font": null
+            },
+            "newspaper": {
+                "color": "#a8a8a8",
+                "emoji": "📰",
+                "font": null
+            },
+            "ninja": {
+                "color": "#464038",
+                "emoji": "🥷",
+                "font": null
+            },
+            "nose": {
+                "color": "#f5c33d",
+                "emoji": "👃",
+                "font": null
+            },
+            "notebook": {
+                "color": "#888888",
+                "emoji": "📓",
+                "font": null
+            },
+            "ocean": {
+                "color": "#96b3c3",
+                "emoji": "🌊",
+                "font": null
+            },
+            "octopus": {
+                "color": "#b85765",
+                "emoji": "🐙",
+                "font": null
+            },
+            "office": {
+                "color": "#9aa1a4",
+                "emoji": "🏢",
+                "font": null
+            },
+            "olive": {
+                "color": "#808000",
+                "emoji": "🫒",
+                "font": null
+            },
+            "onion": {
+                "color": "#d2a074",
+                "emoji": "🧅",
+                "font": null
+            },
+            "orange": {
+                "color": "#ffa500",
+                "emoji": null,
+                "font": null
+            },
+            "orangutan": {
+                "color": "#9d5338",
+                "emoji": "🦧",
+                "font": null
+            },
+            "orchid": {
+                "color": "#da70d6",
+                "emoji": null,
+                "font": null
+            },
+            "otter": {
+                "color": "#76604d",
+                "emoji": "🦦",
+                "font": null
+            },
+            "owl": {
+                "color": "#947c6b",
+                "emoji": "🦉",
+                "font": null
+            },
+            "ox": {
+                "color": "#996c4d",
+                "emoji": "🐂",
+                "font": null
+            },
+            "oyster": {
+                "color": "#9e917d",
+                "emoji": "🦪",
+                "font": null
+            },
+            "package": {
+                "color": "#a78161",
+                "emoji": "📦",
+                "font": null
+            },
+            "parachute": {
+                "color": "#bb703b",
+                "emoji": "🪂",
+                "font": null
+            },
+            "parking": {
+                "color": "#6e97e5",
+                "emoji": "🅿️",
+                "font": null
+            },
+            "parrot": {
+                "color": "#8c9231",
+                "emoji": "🦜",
+                "font": null
+            },
+            "peach": {
+                "color": "#df7e52",
+                "emoji": "🍑",
+                "font": null
+            },
+            "peacock": {
+                "color": "#558b5b",
+                "emoji": "🦚",
+                "font": null
+            },
+            "pear": {
+                "color": "#acae47",
+                "emoji": "🍐",
+                "font": null
+            },
+            "pencil": {
+                "color": "#dbd3c9",
+                "emoji": "📝",
+                "font": null
+            },
+            "penguin": {
+                "color": "#907e71",
+                "emoji": "🐧",
+                "font": null
+            },
+            "phone": {
+                "color": "#cb595b",
+                "emoji": "☎️",
+                "font": null
+            },
+            "pick": {
+                "color": "#686a6e",
+                "emoji": "⛏️",
+                "font": null
+            },
+            "pie": {
+                "color": "#df9e56",
+                "emoji": "🥧",
+                "font": null
+            },
+            "pig": {
+                "color": "#dba99f",
+                "emoji": "🐷",
+                "font": null
+            },
+            "pill": {
+                "color": "#d9a047",
+                "emoji": "💊",
+                "font": null
+            },
+            "pilot": {
+                "color": "#a1854b",
+                "emoji": "🧑‍✈️",
+                "font": null
+            },
+            "pineapple": {
+                "color": "#a78c3a",
+                "emoji": "🍍",
+                "font": null
+            },
+            "pink": {
+                "color": "#ffc0cb",
+                "emoji": null,
+                "font": null
+            },
+            "pizza": {
+                "color": "#cf7c3c",
+                "emoji": "🍕",
+                "font": null
+            },
+            "plum": {
+                "color": "#dda0dd",
+                "emoji": null,
+                "font": null
+            },
+            "plunger": {
+                "color": "#b3664e",
+                "emoji": "🪠",
+                "font": null
+            },
+            "popcorn": {
+                "color": "#e2a791",
+                "emoji": "🍿",
+                "font": null
+            },
+            "postbox": {
+                "color": "#d76d6d",
+                "emoji": "📮",
+                "font": null
+            },
+            "potato": {
+                "color": "#b28952",
+                "emoji": "🥔",
+                "font": null
+            },
+            "pouch": {
+                "color": "#ab8560",
+                "emoji": "👝",
+                "font": null
+            },
+            "pound": {
+                "color": "#baaaab",
+                "emoji": "💷",
+                "font": null
+            },
+            "pray": {
+                "color": "#c5a478",
+                "emoji": "🙏",
+                "font": null
+            },
+            "pretzel": {
+                "color": "#cb865b",
+                "emoji": "🥨",
+                "font": null
+            },
+            "prince": {
+                "color": "#dbb442",
+                "emoji": "🤴",
+                "font": null
+            },
+            "princess": {
+                "color": "#dcab3c",
+                "emoji": "👸",
+                "font": null
+            },
+            "printer": {
+                "color": "#8a8c8e",
+                "emoji": "🖨️",
+                "font": null
+            },
+            "punch": {
+                "color": "#f0b739",
+                "emoji": "👊",
+                "font": null
+            },
+            "purple": {
+                "color": "#800080",
+                "emoji": null,
+                "font": null
+            },
+            "purse": {
+                "color": "#e18eaf",
+                "emoji": "👛",
+                "font": null
+            },
+            "question": {
+                "color": "#db1313",
+                "emoji": "❓",
+                "font": null
+            },
+            "rabbit": {
+                "color": "#c4b7b9",
+                "emoji": "🐰",
+                "font": null
+            },
+            "raccoon": {
+                "color": "#6d6352",
+                "emoji": "🦝",
+                "font": null
+            },
+            "radio": {
+                "color": "#9b8960",
+                "emoji": "📻",
+                "font": null
+            },
+            "rage": {
+                "color": "#ed8536",
+                "emoji": "😡",
+                "font": null
+            },
+            "rainbow": {
+                "color": "#c29c7d",
+                "emoji": "🌈",
+                "font": null
+            },
+            "ram": {
+                "color": "#bfbbb1",
+                "emoji": "🐏",
+                "font": null
+            },
+            "ramen": {
+                "color": "#d9c1ae",
+                "emoji": "🍜",
+                "font": null
+            },
+            "rat": {
+                "color": "#887d72",
+                "emoji": "🐀",
+                "font": null
+            },
+            "razor": {
+                "color": "#a7827d",
+                "emoji": "🪒",
+                "font": null
+            },
+            "receipt": {
+                "color": "#dfdfdf",
+                "emoji": "🧾",
+                "font": null
+            },
+            "red": {
+                "color": "#ff0000",
+                "emoji": null,
+                "font": null
+            },
+            "repeat": {
+                "color": "#9baec1",
+                "emoji": "🔁",
+                "font": null
+            },
+            "restroom": {
+                "color": "#9eb0c2",
+                "emoji": "🚻",
+                "font": null
+            },
+            "rhinoceros": {
+                "color": "#7a7672",
+                "emoji": "🦏",
+                "font": null
+            },
+            "ribbon": {
+                "color": "#da6e94",
+                "emoji": "🎀",
+                "font": null
+            },
+            "rice": {
+                "color": "#cac8c5",
+                "emoji": "🍚",
+                "font": null
+            },
+            "ring": {
+                "color": "#a1aeb7",
+                "emoji": "💍",
+                "font": null
+            },
+            "rock": {
+                "color": "#666660",
+                "emoji": "🪨",
+                "font": null
+            },
+            "rocket": {
+                "color": "#b3897c",
+                "emoji": "🚀",
+                "font": null
+            },
+            "rooster": {
+                "color": "#c8b4ad",
+                "emoji": "🐓",
+                "font": null
+            },
+            "rose": {
+                "color": "#bb4026",
+                "emoji": "🌹",
+                "font": null
+            },
+            "rowboat": {
+                "color": "#ca714c",
+                "emoji": "🚣‍♂️",
+                "font": null
+            },
+            "runner": {
+                "color": "#ca8c5f",
+                "emoji": "🏃‍♂️",
+                "font": null
+            },
+            "running": {
+                "color": "#ca8c5f",
+                "emoji": "🏃‍♂️",
+                "font": null
+            },
+            "sailboat": {
+                "color": "#c47b3b",
+                "emoji": "⛵",
+                "font": null
+            },
+            "sake": {
+                "color": "#cacbcc",
+                "emoji": "🍶",
+                "font": null
+            },
+            "salmon": {
+                "color": "#fa8072",
+                "emoji": null,
+                "font": null
+            },
+            "salt": {
+                "color": "#c5c4c3",
+                "emoji": "🧂",
+                "font": null
+            },
+            "sandal": {
+                "color": "#c8a98a",
+                "emoji": "👡",
+                "font": null
+            },
+            "sandwich": {
+                "color": "#ddb775",
+                "emoji": "🥪",
+                "font": null
+            },
+            "sari": {
+                "color": "#d3711c",
+                "emoji": "🥻",
+                "font": null
+            },
+            "satellite": {
+                "color": "#727385",
+                "emoji": "🛰️",
+                "font": null
+            },
+            "saxophone": {
+                "color": "#bda34a",
+                "emoji": "🎷",
+                "font": null
+            },
+            "scarf": {
+                "color": "#bc342f",
+                "emoji": "🧣",
+                "font": null
+            },
+            "school": {
+                "color": "#c2b399",
+                "emoji": "🏫",
+                "font": null
+            },
+            "scientist": {
+                "color": "#d6c291",
+                "emoji": "🧑‍🔬",
+                "font": null
+            },
+            "scissors": {
+                "color": "#cc919b",
+                "emoji": "✂️",
+                "font": null
+            },
+            "scooter": {
+                "color": "#5b626b",
+                "emoji": "🛴",
+                "font": null
+            },
+            "scorpion": {
+                "color": "#a26a1e",
+                "emoji": "🦂",
+                "font": null
+            },
+            "screwdriver": {
+                "color": "#72c56c",
+                "emoji": "🪛",
+                "font": null
+            },
+            "seal": {
+                "color": "#949291",
+                "emoji": "🦭",
+                "font": null
+            },
+            "seat": {
+                "color": "#858ca6",
+                "emoji": "💺",
+                "font": null
+            },
+            "secret": {
+                "color": "#f77a78",
+                "emoji": "㊙️",
+                "font": null
+            },
+            "shark": {
+                "color": "#88979a",
+                "emoji": "🦈",
+                "font": null
+            },
+            "sheep": {
+                "color": "#c2c0b8",
+                "emoji": "🐑",
+                "font": null
+            },
+            "shell": {
+                "color": "#beb4b4",
+                "emoji": "🐚",
+                "font": null
+            },
+            "shield": {
+                "color": "#c4a09d",
+                "emoji": "🛡️",
+                "font": null
+            },
+            "ship": {
+                "color": "#b59c93",
+                "emoji": "🚢",
+                "font": null
+            },
+            "shirt": {
+                "color": "#73a7d5",
+                "emoji": "👕",
+                "font": null
+            },
+            "shit": {
+                "color": "#937261",
+                "emoji": "💩",
+                "font": null
+            },
+            "shoe": {
+                "color": "#8a4e3d",
+                "emoji": "👞",
+                "font": null
+            },
+            "shorts": {
+                "color": "#e09237",
+                "emoji": "🩳",
+                "font": null
+            },
+            "shower": {
+                "color": "#87abb0",
+                "emoji": "🚿",
+                "font": null
+            },
+            "shrimp": {
+                "color": "#da6535",
+                "emoji": "🦐",
+                "font": null
+            },
+            "silver": {
+                "color": "#c0c0c0",
+                "emoji": null,
+                "font": null
+            },
+            "singer": {
+                "color": "#8ead48",
+                "emoji": "🧑‍🎤",
+                "font": null
+            },
+            "ski": {
+                "color": "#919f82",
+                "emoji": "🎿",
+                "font": null
+            },
+            "skull": {
+                "color": "#c6cacb",
+                "emoji": "💀",
+                "font": null
+            },
+            "skunk": {
+                "color": "#6e6962",
+                "emoji": "🦨",
+                "font": null
+            },
+            "sled": {
+                "color": "#b72d2c",
+                "emoji": "🛷",
+                "font": null
+            },
+            "sleeping": {
+                "color": "#e8ba57",
+                "emoji": "😴",
+                "font": null
+            },
+            "sloth": {
+                "color": "#665434",
+                "emoji": "🦥",
+                "font": null
+            },
+            "smile": {
+                "color": "#e6bc5f",
+                "emoji": "😄",
+                "font": null
+            },
+            "smoking": {
+                "color": "#b3a79d",
+                "emoji": "🚬",
+                "font": null
+            },
+            "snail": {
+                "color": "#ab8458",
+                "emoji": "🐌",
+                "font": null
+            },
+            "snake": {
+                "color": "#869844",
+                "emoji": "🐍",
+                "font": null
+            },
+            "snow": {
+                "color": "#fffafa",
+                "emoji": null,
+                "font": null
+            },
+            "snowflake": {
+                "color": "#a1d9f6",
+                "emoji": "❄️",
+                "font": null
+            },
+            "snowman": {
+                "color": "#acbcc5",
+                "emoji": "☃️",
+                "font": null
+            },
+            "soap": {
+                "color": "#8ad7b4",
+                "emoji": "🧼",
+                "font": null
+            },
+            "soccer": {
+                "color": "#bbbbbb",
+                "emoji": "⚽",
+                "font": null
+            },
+            "socks": {
+                "color": "#aa9884",
+                "emoji": "🧦",
+                "font": null
+            },
+            "softball": {
+                "color": "#d3d736",
+                "emoji": "🥎",
+                "font": null
+            },
+            "sound": {
+                "color": "#848b8f",
+                "emoji": "🔉",
+                "font": null
+            },
+            "spaghetti": {
+                "color": "#d7b493",
+                "emoji": "🍝",
+                "font": null
+            },
+            "speaker": {
+                "color": "#808489",
+                "emoji": "🔈",
+                "font": null
+            },
+            "speedboat": {
+                "color": "#c09d74",
+                "emoji": "🚤",
+                "font": null
+            },
+            "spider": {
+                "color": "#4a4849",
+                "emoji": "🕷️",
+                "font": null
+            },
+            "sponge": {
+                "color": "#d7c935",
+                "emoji": "🧽",
+                "font": null
+            },
+            "spoon": {
+                "color": "#8f98a1",
+                "emoji": "🥄",
+                "font": null
+            },
+            "squid": {
+                "color": "#c05643",
+                "emoji": "🦑",
+                "font": null
+            },
+            "stadium": {
+                "color": "#ad8878",
+                "emoji": "🏟️",
+                "font": null
+            },
+            "star": {
+                "color": "#f7db93",
+                "emoji": "⭐",
+                "font": null
+            },
+            "station": {
+                "color": "#636b6c",
+                "emoji": "🚉",
+                "font": null
+            },
+            "stew": {
+                "color": "#b2b1a3",
+                "emoji": "🍲",
+                "font": null
+            },
+            "stopwatch": {
+                "color": "#c8c9cb",
+                "emoji": "⏱️",
+                "font": null
+            },
+            "strawberry": {
+                "color": "#ba543e",
+                "emoji": "🍓",
+                "font": null
+            },
+            "student": {
+                "color": "#a37f38",
+                "emoji": "🧑‍🎓",
+                "font": null
+            },
+            "sunflower": {
+                "color": "#bc990a",
+                "emoji": "🌻",
+                "font": null
+            },
+            "sunglasses": {
+                "color": "#d5a94f",
+                "emoji": "😎",
+                "font": null
+            },
+            "sunrise": {
+                "color": "#deb093",
+                "emoji": "🌅",
+                "font": null
+            },
+            "sushi": {
+                "color": "#e8a190",
+                "emoji": "🍣",
+                "font": null
+            },
+            "swan": {
+                "color": "#c5c1b1",
+                "emoji": "🦢",
+                "font": null
+            },
+            "sweat": {
+                "color": "#e3bf70",
+                "emoji": "😓",
+                "font": null
+            },
+            "taco": {
+                "color": "#c4a34b",
+                "emoji": "🌮",
+                "font": null
+            },
+            "tamale": {
+                "color": "#c7973c",
+                "emoji": "🫔",
+                "font": null
+            },
+            "tan": {
+                "color": "#d2b48c",
+                "emoji": null,
+                "font": null
+            },
+            "tangerine": {
+                "color": "#d7873c",
+                "emoji": "🍊",
+                "font": null
+            },
+            "taxi": {
+                "color": "#aa9668",
+                "emoji": "🚕",
+                "font": null
+            },
+            "tea": {
+                "color": "#a8aa9a",
+                "emoji": "🍵",
+                "font": null
+            },
+            "teacher": {
+                "color": "#b29360",
+                "emoji": "🧑‍🏫",
+                "font": null
+            },
+            "teapot": {
+                "color": "#c5cdd1",
+                "emoji": "🫖",
+                "font": null
+            },
+            "technologist": {
+                "color": "#baa27d",
+                "emoji": "🧑‍💻",
+                "font": null
+            },
+            "telephone": {
+                "color": "#cb595b",
+                "emoji": "☎️",
+                "font": null
+            },
+            "tennis": {
+                "color": "#c4d74a",
+                "emoji": "🎾",
+                "font": null
+            },
+            "tent": {
+                "color": "#e07943",
+                "emoji": "⛺",
+                "font": null
+            },
+            "thermometer": {
+                "color": "#d5b2b7",
+                "emoji": "🌡️",
+                "font": null
+            },
+            "thistle": {
+                "color": "#d8bfd8",
+                "emoji": null,
+                "font": null
+            },
+            "thread": {
+                "color": "#827e82",
+                "emoji": "🧵",
+                "font": null
+            },
+            "ticket": {
+                "color": "#d6ce6d",
+                "emoji": "🎫",
+                "font": null
+            },
+            "tiger": {
+                "color": "#c9ad4e",
+                "emoji": "🐯",
+                "font": null
+            },
+            "toilet": {
+                "color": "#d5d5d4",
+                "emoji": "🚽",
+                "font": null
+            },
+            "tomato": {
+                "color": "#ff6347",
+                "emoji": "🍅",
+                "font": null
+            },
+            "tongue": {
+                "color": "#c86c7a",
+                "emoji": "👅",
+                "font": null
+            },
+            "tooth": {
+                "color": "#dcd3c3",
+                "emoji": "🦷",
+                "font": null
+            },
+            "toothbrush": {
+                "color": "#81bdd5",
+                "emoji": "🪥",
+                "font": null
+            },
+            "top": {
+                "color": "#4b4b4b",
+                "emoji": "🔝",
+                "font": null
+            },
+            "tornado": {
+                "color": "#acafb9",
+                "emoji": "🌪️",
+                "font": null
+            },
+            "tractor": {
+                "color": "#948851",
+                "emoji": "🚜",
+                "font": null
+            },
+            "train": {
+                "color": "#969284",
+                "emoji": "🚋",
+                "font": null
+            },
+            "tram": {
+                "color": "#62787b",
+                "emoji": "🚊",
+                "font": null
+            },
+            "triumph": {
+                "color": "#ecc87c",
+                "emoji": "😤",
+                "font": null
+            },
+            "trophy": {
+                "color": "#c4902f",
+                "emoji": "🏆",
+                "font": null
+            },
+            "truck": {
+                "color": "#c5865a",
+                "emoji": "🚚",
+                "font": null
+            },
+            "trumpet": {
+                "color": "#b29f50",
+                "emoji": "🎺",
+                "font": null
+            },
+            "tulip": {
+                "color": "#ca856e",
+                "emoji": "🌷",
+                "font": null
+            },
+            "turkey": {
+                "color": "#8c6e66",
+                "emoji": "🦃",
+                "font": null
+            },
+            "turtle": {
+                "color": "#6b8b4c",
+                "emoji": "🐢",
+                "font": null
+            },
+            "umbrella": {
+                "color": "#964bde",
+                "emoji": "☂️",
+                "font": null
+            },
+            "vampire": {
+                "color": "#8e6a42",
+                "emoji": "🧛‍♀️",
+                "font": null
+            },
+            "violet": {
+                "color": "#ee82ee",
+                "emoji": null,
+                "font": null
+            },
+            "violin": {
+                "color": "#a26e47",
+                "emoji": "🎻",
+                "font": null
+            },
+            "volcano": {
+                "color": "#aa8677",
+                "emoji": "🌋",
+                "font": null
+            },
+            "volleyball": {
+                "color": "#bdbdbd",
+                "emoji": "🏐",
+                "font": null
+            },
+            "waffle": {
+                "color": "#e2ad54",
+                "emoji": "🧇",
+                "font": null
+            },
+            "walking": {
+                "color": "#a17054",
+                "emoji": "🚶‍♂️",
+                "font": null
+            },
+            "warning": {
+                "color": "#f4c41a",
+                "emoji": "⚠️",
+                "font": null
+            },
+            "wastebasket": {
+                "color": "#7d8792",
+                "emoji": "🗑️",
+                "font": null
+            },
+            "watch": {
+                "color": "#5e5d5c",
+                "emoji": "⌚",
+                "font": null
+            },
+            "watermelon": {
+                "color": "#d17f6b",
+                "emoji": "🍉",
+                "font": null
+            },
+            "wave": {
+                "color": "#ecb73f",
+                "emoji": "👋",
+                "font": null
+            },
+            "wedding": {
+                "color": "#c690a9",
+                "emoji": "💒",
+                "font": null
+            },
+            "whale": {
+                "color": "#4ea6c0",
+                "emoji": "🐳",
+                "font": null
+            },
+            "wheat": {
+                "color": "#f5deb3",
+                "emoji": null,
+                "font": null
+            },
+            "white": {
+                "color": "#ffffff",
+                "emoji": null,
+                "font": null
+            },
+            "window": {
+                "color": "#a1705d",
+                "emoji": "🪟",
+                "font": null
+            },
+            "wink": {
+                "color": "#efc04e",
+                "emoji": "😉",
+                "font": null
+            },
+            "wolf": {
+                "color": "#777676",
+                "emoji": "🐺",
+                "font": null
+            },
+            "woman": {
+                "color": "#e0b04a",
+                "emoji": "👩",
+                "font": null
+            },
+            "wood": {
+                "color": "#8e6d52",
+                "emoji": "🪵",
+                "font": null
+            },
+            "worm": {
+                "color": "#ce565c",
+                "emoji": "🪱",
+                "font": null
+            },
+            "wrench": {
+                "color": "#878b95",
+                "emoji": "🔧",
+                "font": null
+            },
+            "yarn": {
+                "color": "#b94a0f",
+                "emoji": "🧶",
+                "font": null
+            },
+            "yellow": {
+                "color": "#ffff00",
+                "emoji": null,
+                "font": null
+            },
+            "zero": {
+                "color": "#90a6bb",
+                "emoji": "0️⃣",
+                "font": null
+            },
+            "zombie": {
+                "color": "#6e7768",
+                "emoji": "🧟‍♂️",
+                "font": null
+            }
+        }
+    }
+]
