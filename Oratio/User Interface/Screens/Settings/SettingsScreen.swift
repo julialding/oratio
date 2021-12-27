@@ -11,7 +11,7 @@ struct SettingsScreen: View {
                     Picker("Language", selection: self.$store.settings.selectedLanguage) {
                         if let languages = self.store.languages {
                             ForEach(languages) { language in
-                                Text(language.id)
+                                Text(language.name)
                                     .tag(Optional(language.id))
                             }
                         }

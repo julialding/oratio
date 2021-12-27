@@ -1,6 +1,7 @@
 [
     {
-        "id": "English",
+        "name": "English",
+        "id": "en",
         "words": {
             "abacus": {
                 "color": "#9f4c21",
@@ -2408,5 +2409,10 @@
                 "font": null
             }
         }
+    },
+    {
+        "name": "Español",
+        "id": "es",
+        "words": {}
     }
 ]

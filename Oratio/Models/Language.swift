@@ -1,6 +1,7 @@
 import SwiftUI
 
 struct Language: Codable, Identifiable {
+    let name: String
     let id: String
     let words: [String: Word]
 

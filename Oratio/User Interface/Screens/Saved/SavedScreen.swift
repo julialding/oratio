@@ -34,7 +34,7 @@ struct SavedScreen: View {
                             let savedWords = self.savedWords(languages: languages)
 
                             ForEach(savedWords, id: \.0.id) { language, words in
-                                Section(header: Text(language.id)) {
+                                Section(header: Text(language.name)) {
                                     ForEach(words, id: \.self) { word in
                                         Button(action: { self.define(word) }) {
                                             WordView(

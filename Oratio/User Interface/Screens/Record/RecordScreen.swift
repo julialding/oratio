@@ -1,5 +1,6 @@
 import SwiftUI
 import Introspect
+import NaturalLanguage
 
 struct RecordScreen: View {
     @EnvironmentObject var store: Store
@@ -67,9 +68,9 @@ struct RecordScreen: View {
                     }
                 }
             }
+            .navigationViewStyle(.stack)
+            .navigationBarTitleDisplayMode(.inline)
         }
-        .navigationViewStyle(.stack)
-        .navigationBarTitleDisplayMode(.inline)
         .sheet(isPresented: self.$showSaved) {
             SavedScreen()
         }
@@ -81,9 +82,13 @@ struct RecordScreen: View {
                 self.recording.removeAll()
 
                 Task {
+                    let selectedLanguage = self.store.languages!
+                        .first(where: { $0.id == self.store.settings.selectedLanguage })
+                        ?? self.store.languages!.first!
+                    
                     do {
-                        for await speech in try await SpeechRecognition.start() {
-                            self.recording = NLP.words(in: speech)
+                        for await speech in try await SpeechRecognition.start(locale: .init(identifier: selectedLanguage.id)) {
+                            self.recording = NLP.words(in: speech, language: .init(rawValue: selectedLanguage.id))
                         }
                     } catch {
                         self.store.error = error

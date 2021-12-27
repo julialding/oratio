@@ -21,7 +21,7 @@ enum SpeechRecognition {
         }
     }
 
-    static func start() async throws -> AsyncStream<String> {
+    static func start(locale: Locale) async throws -> AsyncStream<String> {
         let status = await withCheckedContinuation { continuation in
             SFSpeechRecognizer.requestAuthorization { status in
                 continuation.resume(returning: status)
@@ -41,7 +41,7 @@ enum SpeechRecognition {
         self.request!.taskHint = .dictation
 
         // TODO: Set language with init(locale: ...)
-        guard let speechRecognizer = SFSpeechRecognizer() else {
+        guard let speechRecognizer = SFSpeechRecognizer(locale: locale) else {
             throw Error.couldNotLoadSpeechRecognizer
         }
 
