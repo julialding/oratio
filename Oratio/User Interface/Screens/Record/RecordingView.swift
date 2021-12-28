@@ -23,6 +23,16 @@ struct RecordingView: View {
                 Button(action: { self.define(word.lemma) }) {
                     Label("Define", systemImage: "character.book.closed")
                 }
+                
+                Menu {
+                    ForEach(NLP.similarWords(for: word.lemma, language: .init(rawValue: self.store.selectedLanguage!.id)), id: \.word) { word, score in
+                        Button(action: { self.define(word) }) {
+                            Text("\(word) (\(score))")
+                        }
+                    }
+                } label: {
+                    Label("Similar Words", systemImage: "text.alignleft")
+                }
             } label: {
                 WordView(language: self.language, word: word)
             }

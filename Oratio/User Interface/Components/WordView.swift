@@ -8,7 +8,17 @@ struct WordView: View {
     var overrideFontSize: CGFloat? = nil
 
     var body: some View {
-        let style = language.words[self.word.lemma]
+        let selectedLanguage = self.store.selectedLanguage!
+        
+        let style: Language.Word? = {
+            for (word, _) in CollectionOfOne((self.word.lemma, 1)) + NLP.similarWords(for: self.word.lemma, language: .init(rawValue: selectedLanguage.id)) {
+                if let style = language.words[word] {
+                    return style
+                }
+            }
+            
+            return nil
+        }()
 
         HStack {
             Text(word.full)

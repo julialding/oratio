@@ -82,9 +82,7 @@ struct RecordScreen: View {
                 self.recording.removeAll()
 
                 Task {
-                    let selectedLanguage = self.store.languages!
-                        .first(where: { $0.id == self.store.settings.selectedLanguage })
-                        ?? self.store.languages!.first!
+                    let selectedLanguage = self.store.selectedLanguage!
                     
                     do {
                         for await speech in try await SpeechRecognition.start(locale: .init(identifier: selectedLanguage.id)) {

@@ -17,3 +17,11 @@ class Store: ObservableObject {
 
     @Published var error: Error?
 }
+
+extension Store {
+    var selectedLanguage: Language? {
+        self.languages?
+            .first(where: { $0.id == self.settings.selectedLanguage })
+            ?? self.languages?.first
+    }
+}

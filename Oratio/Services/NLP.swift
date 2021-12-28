@@ -24,4 +24,17 @@ enum NLP {
 
         return words
     }
+    
+    static let similarWordDistanceThreshold = 0.95
+    
+    static func similarWords(for word: String, language: NLLanguage) -> [(word: String, score: Double)] {
+        guard let embedding = NLEmbedding.wordEmbedding(for: language) else {
+            return []
+        }
+        
+        return embedding
+            .neighbors(for: word, maximumCount: 10)
+            .filter { $0.1 < Self.similarWordDistanceThreshold }
+            .sorted(using: KeyPathComparator(\.1))
+    }
 }
