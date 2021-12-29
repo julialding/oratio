@@ -25,9 +25,9 @@ struct RecordingView: View {
                 }
                 
                 Menu {
-                    ForEach(NLP.similarWords(for: word.lemma, language: .init(rawValue: self.store.selectedLanguage!.id)), id: \.word) { word, score in
+                    ForEach(NLP.similarWords(for: word.full, language: .init(rawValue: self.store.selectedLanguage!.id)), id: \.word) { word, score in
                         Button(action: { self.define(word) }) {
-                            Text("\(word) (\(score))")
+                            Text(word)
                         }
                     }
                 } label: {
